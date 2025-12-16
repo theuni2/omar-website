@@ -50,7 +50,7 @@ export default function PitchHero() {
           <div className="rounded-2xl overflow-hidden shadow-2xl bg-white/10 backdrop-blur">
             <img
               src="/img/about_img_hero.png" // competition image
-              alt="Students pitching business ideas"
+              alt="Students pitching business idea"
               className="w-full h-full object-cover"
             />
           </div>
