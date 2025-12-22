@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 export default function FounderSection() {
   return (
-    <section className="py-24 bg-white">
+    <section className="py-24 bg-white" id="founder">
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
 
         {/* Founder Image */}

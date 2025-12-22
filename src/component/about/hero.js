@@ -32,9 +32,11 @@ export default function AboutHero() {
             <button className="px-7 py-3 bg-blue-600 text-white rounded-lg text-lg hover:bg-blue-700 transition">
               Explore the Competition
             </button>
+            <a href="#founder">
             <button className="px-7 py-3 border border-gray-300 rounded-lg text-lg text-gray-700 hover:bg-gray-100 transition">
-              Meet the Founder
+              Know the Founder
             </button>
+            </a>
           </div>
         </motion.div>
 
