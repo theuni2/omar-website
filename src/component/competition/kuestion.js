@@ -53,7 +53,7 @@ const FAQSection = () => {
       question: "Who is eligible to participate?",
       answer: (
         <p>
-          The competition is open to students in <strong>Grades 8–12</strong> (subject to school adjustments). All ideas presented must be original work.
+          The competition is open to students in <strong>Grades 8–12</strong>. All ideas presented must be original work.
         </p>
       ),
     },
@@ -84,7 +84,7 @@ const FAQSection = () => {
   ];
 
   return (
-    <section className="relative py-24 bg-black text-white overflow-hidden px-6">
+    <section className="relative py-24 bg-black text-white overflow-hidden px-6" id='kuestion'>
       
       {/* --- Background Ambient Glow --- */}
       <div className="absolute top-[30%] right-0 w-[600px] h-[600px] bg-green-900/10 rounded-full blur-[120px] pointer-events-none" />

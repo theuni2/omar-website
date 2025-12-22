@@ -25,7 +25,7 @@ export default function Navbar() {
     },
     { label: "Conference", href: "/conference" },
     // { label: "Register", href: "/register" },
-    // { label: "FAQ", href: "/faq" },
+    { label: "FAQ", href: "/competition#kuestion" },
     // { label: "Contact", href: "/contact" },
   ];
 

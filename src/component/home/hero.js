@@ -60,8 +60,7 @@ Your Ideas, Your Stage.
           "Pitch Ideas",
           "Workshops",
           "Innovation",
-          "Investment Basics",
-          "Case Challenges"
+         
         ].map((item, index) => (
           <button
             key={index}

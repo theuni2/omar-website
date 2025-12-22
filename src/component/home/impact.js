@@ -6,10 +6,9 @@ export default function ImpactSection() {
   const stats = [
     { label: "Students Participated", value: "12,500+" },
     { label: "Workshops & Conferences", value: "85+" },
-    { label: "Cities Impacted", value: "40+" },
-    { label: "Scholarships Facilitated", value: "300+" },
+    { label: "abc", value: "40+" },
+    { label: "abc", value: "150,000+" },
   ];
-
   return (
     <section className="py-20 bg-white">
       <div className="max-w-6xl mx-auto px-6">
