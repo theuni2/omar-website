@@ -29,9 +29,11 @@ export default function AboutHero() {
           </p>
 
           <div className="flex gap-4">
+            <a href='/competition'>
             <button className="px-7 py-3 bg-blue-600 text-white rounded-lg text-lg hover:bg-blue-700 transition">
               Explore the Competition
             </button>
+            </a>
             <a href="#founder">
             <button className="px-7 py-3 border border-gray-300 rounded-lg text-lg text-gray-700 hover:bg-gray-100 transition">
               Know the Founder

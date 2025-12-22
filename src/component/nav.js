@@ -24,9 +24,9 @@ export default function Navbar() {
     
     },
     { label: "Conference", href: "/conference" },
-    { label: "Register", href: "/register" },
-    { label: "FAQ", href: "/faq" },
-    { label: "Contact", href: "/contact" },
+    // { label: "Register", href: "/register" },
+    // { label: "FAQ", href: "/faq" },
+    // { label: "Contact", href: "/contact" },
   ];
 
   const isActive = (href) => {

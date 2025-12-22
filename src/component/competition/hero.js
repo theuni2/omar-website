@@ -149,7 +149,7 @@ const PitchCompetition = () => {
             <div className="relative overflow-hidden rounded-xl aspect-[4/3] bg-gray-800">
                {/* Replace src with your actual image */}
                <img 
-                 src="/api/placeholder/800/600" 
+                 src="/img/competition.png" 
                  alt="Students working on business pitch"
                  className="object-cover w-full h-full opacity-80 group-hover:scale-105 transition-transform duration-700 ease-out"
                />

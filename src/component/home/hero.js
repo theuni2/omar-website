@@ -11,10 +11,11 @@ export default function Hero() {
 
       {/* Heading */}
       <h1 className="text-4xl md:text-6xl font-bold text-gray-900 max-w-4xl mx-auto px-4 leading-tight">
-        Discover <span className="text-blue-600">Business & Sports</span> ideas
-        built by young innovators
+        Dream it. <span className="text-blue-600">Pitch it.</span> Own it.
+      <br/>
+Your Ideas, Your Stage. 
       </h1>
-
+ 
       {/* Subtext */}
       <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto px-4">
         Learn, create, and compete through real-world entrepreneurship challenges.
@@ -58,7 +59,7 @@ export default function Hero() {
           "All",
           "Pitch Ideas",
           "Workshops",
-          "Sports Innovation",
+          "Innovation",
           "Investment Basics",
           "Case Challenges"
         ].map((item, index) => (

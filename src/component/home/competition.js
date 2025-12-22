@@ -29,10 +29,12 @@ export default function Competition() {
           focus:outline-none hover:bg-indigo-700 rounded-lg text-lg transition">
           Register Now
         </button>
+        <a href='/competition'>
         <button className="ml-4 inline-flex text-indigo-600 bg-indigo-100 border-0 py-3 px-7 
           focus:outline-none hover:bg-indigo-200 rounded-lg text-lg transition">
           Learn More
         </button>
+        </a>
       </div>
     </div>
 

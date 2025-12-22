@@ -97,7 +97,7 @@ const ProgramPhases = () => {
           <div className="absolute right-0 top-12 bottom-12 w-1 bg-gradient-to-b from-green-500 to-transparent rounded-l-full" />
 
           <div className="flex flex-col md:flex-row gap-8">
-            <div className="flex-1 order-2 md:order-1 border-l border-gray-800 md:border-l-0 md:border-r md:pr-8 grid gap-4">
+            <div className="flex-1 order-2 md:order-1 my-auto border-l border-gray-800 md:border-l-0 md:border-r md:pr-8 grid gap-4">
                
                {/* Card 1 */}
                <div className="bg-gray-800/50 hover:bg-gray-800 transition-colors p-5 rounded-xl border border-gray-700/50">
@@ -109,13 +109,13 @@ const ProgramPhases = () => {
                </div>
 
                {/* Card 2 */}
-               <div className="bg-gray-800/50 hover:bg-gray-800 transition-colors p-5 rounded-xl border border-gray-700/50">
+               {/* <div className="bg-gray-800/50 hover:bg-gray-800 transition-colors p-5 rounded-xl border border-gray-700/50">
                   <h4 className="font-semibold text-green-300 mb-2">Investment Challenge</h4>
                   <p className="text-gray-400 text-sm leading-relaxed">
                     Optional challenge where students analyze a business scenario
                     or evaluate a startup idea.
                   </p>
-               </div>
+               </div> */}
 
             </div>
 
